@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router applications where a user might get stuck on a page if there is no way to navigate back to previous page. The bug.js file contains the buggy code.  The bugSolution.js file provides the solution by adding a link back to the home page.
